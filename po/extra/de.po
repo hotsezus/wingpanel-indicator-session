@@ -7,9 +7,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: extra\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-06-04 16:21+0000\n"
-"PO-Revision-Date: 2019-12-25 15:17+0000\n"
-"Last-Translator: Jörg Arnold <j.ar@mailbox.org>\n"
+"POT-Creation-Date: 2021-07-13 23:29+0000\n"
+"PO-Revision-Date: 2021-07-21 14:13+0000\n"
+"Last-Translator: supaeasy <ismo+github@wolffson.ch>\n"
 "Language-Team: German <https://l10n.elementary.io/projects/wingpanel/"
 "indicator-session-extra/de/>\n"
 "Language: de\n"
@@ -17,33 +17,42 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.9.1\n"
+"X-Generator: Weblate 4.4.2\n"
 
 #: data/session.appdata.xml.in:6
 msgid "Session Indicator"
-msgstr ""
+msgstr "Sitzungsanzeige"
 
 #: data/session.appdata.xml.in:7
 msgid "Switch users, lock, log out, suspend, or shut down"
-msgstr ""
+msgstr "Benutzer wechseln, Sperren, Abmelden, Ruhezustand oder Herunterfahren"
 
-#: data/session.appdata.xml.in:11 data/session.appdata.xml.in:20
+#: data/session.appdata.xml.in:11 data/session.appdata.xml.in:22
+#: data/session.appdata.xml.in:31
 msgid "Minor updates:"
-msgstr ""
+msgstr "Kleinere Aktualisierungen:"
 
 #: data/session.appdata.xml.in:13
-msgid "Performance improvements"
-msgstr ""
+msgid "New colorful avatar fallback"
+msgstr "Neue farbenfrohe Avatar-Fallbacks"
 
-#: data/session.appdata.xml.in:14 data/session.appdata.xml.in:23
-#: data/session.appdata.xml.in:29
+#: data/session.appdata.xml.in:14
+msgid "Tooltip on hover"
+msgstr "Tooltip beim Darüberfahren"
+
+#: data/session.appdata.xml.in:15 data/session.appdata.xml.in:24
+msgid "Performance improvements"
+msgstr "Leistungsverbesserungen"
+
+#: data/session.appdata.xml.in:16 data/session.appdata.xml.in:25
+#: data/session.appdata.xml.in:34 data/session.appdata.xml.in:40
 msgid "Updated translations"
 msgstr "Aktualisierte Übersetzungen"
 
-#: data/session.appdata.xml.in:22
+#: data/session.appdata.xml.in:33
 msgid "Updated styling for keyboard shortcuts"
-msgstr ""
+msgstr "Aktualisierte Styles für Tastaturkürzel"
 
-#: data/session.appdata.xml.in:38
+#: data/session.appdata.xml.in:49
 msgid "elementary, Inc."
 msgstr "elementary, Inc."
